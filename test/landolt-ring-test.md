@@ -1,8 +1,8 @@
-# Landolt Ring
+# Landolt Ring Test
 
 ![](<../.gitbook/assets/image (5).png>)
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (2) (1).png>)
 
 ### Features
 
